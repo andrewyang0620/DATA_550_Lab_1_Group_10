@@ -1,1 +1,2 @@
-# DATA_550_Lab_1_Group_1
+# DATA 550 Lab 1 Group 10
+### Members: ***Jingtao Yang***, ***Po-Kai Tseng***
