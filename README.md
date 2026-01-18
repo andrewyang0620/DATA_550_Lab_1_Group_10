@@ -1,2 +1,3 @@
-# DATA 550 Lab 1 Group 10
+# DATA 550 Labs Group 10
 ### Members: ***Jingtao Yang***, ***Po-Kai Tseng***
+This repository contains all the labs, listed in folders
